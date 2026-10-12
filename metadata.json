@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Cinema",
+  "description": "Plataforma de streaming profesional de películas, series y anime con estética Liquid Glass y datos en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
